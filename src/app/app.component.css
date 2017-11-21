@@ -1,0 +1,9 @@
+.block-alert {
+  font-weight: bold;
+  margin: 20px auto;
+  width: 50%;
+  text-align: center;
+  box-sizing: border-box;
+  height: 100px;
+  line-height: 100px;
+}
